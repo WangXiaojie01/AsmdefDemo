@@ -1,0 +1,19 @@
+{
+    "name": "Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:47ee709394f13433bb707b1e5e2efcf7",
+        "GUID:97585d74347bb494796712fa1dbce9ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "GameCoreScarlett"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
